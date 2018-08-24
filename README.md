@@ -27,3 +27,10 @@ yarn build
 ```
 git remote rm origin
 ```
+##### or
+```
+git remote rename origin upstream
+```
+```
+git remote set-url --push upstream "NO PUSHING"
+```
