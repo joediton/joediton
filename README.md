@@ -3,7 +3,22 @@
 * [NodeJs](https://nodejs.org/)
 * [Yarn](https://yarnpkg.com/)
 
-##### Install Yarn
+##### Install Yarn if you haven't already
 ```
 npm install yarn -g
+```
+
+##### Install Node Modules
+```
+yarn
+```
+
+##### Watch
+```
+yarn watch
+```
+
+##### Build
+```
+yarn build
 ```
