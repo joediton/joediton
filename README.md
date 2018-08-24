@@ -4,6 +4,6 @@
 * [Yarn](https://yarnpkg.com/)
 
 ##### Install Yarn
-'''
+```
 npm install yarn -g
-'''
+```
