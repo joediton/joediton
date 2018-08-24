@@ -22,3 +22,11 @@ yarn watch
 ```
 yarn build
 ```
+
+### For new projects
+```
+git remote rename origin upstream
+```
+```
+git remote set-url --push upstream ""
+```
